@@ -1,0 +1,49 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de compilação e dependência
+node_modules/
+dist/
+build/
+*.o
+*.exe
+
+# Logs
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.tmp.*
+*.swp
+*.swo
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sln
+*.suo
+*.user
+
+# Sistema de gerenciamento de pacotes
+package-lock.json
+yarn.lock
+
+# Databases
+*.sqlite
+
+# Certificados
+*.pem
+*.key
+
+# Ambiente
+.env
+.env.*
+
+# Outros
+*.bak
+*.cache
+*.pid
+*.seed
+*.pid.lock
